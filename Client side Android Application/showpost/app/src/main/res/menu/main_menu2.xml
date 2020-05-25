@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id ="@+id/comment"
+        android:title="Comment" />
+    <item
+        android:id ="@+id/showcomment"
+        android:title="Show Comment"/>
+
+    <item android:id ="@+id/remove"
+        android:icon="@drawable/rem"
+        android:title="Remove"
+        app:showAsAction="always"/>
+
+</menu>

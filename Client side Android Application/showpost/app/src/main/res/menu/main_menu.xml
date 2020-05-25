@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <!--item android:id ="@+id/ser"
+        android:icon="@drawable/searc"
+        android:title="searchh"
+        app:showAsAction="always"
+        />-->
+
+    <item
+        android:id ="@+id/frontpage"
+        android:title="FrontPage" />
+
+    <item
+        android:id ="@+id/account"
+        android:title="Account "/>
+
+    <item
+        android:id="@+id/theme"
+        android:title ="Theme" />
+
+    <!--<item android:id ="@+id/star"
+        android:icon="@drawable/ic_action_star_filled_light"
+        android:title="star"
+        app:showAsAction="always"
+        />-->
+
+</menu>
